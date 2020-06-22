@@ -1,8 +1,8 @@
+///<reference types="react-scripts" />
 import React from 'react';
-
 import './App.css';
 
-function App() {
+function App(className:string) {
   return (
     <div className="App">
      
